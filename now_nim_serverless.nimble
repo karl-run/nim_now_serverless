@@ -1,11 +1,11 @@
 # Package
 
 version       = "1.0.0"
-author        = "Karl J. Over\xC3\xA5"
+author        = "Karl O."
 description   = "Example serverless function on zeit's now"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["main"] 
+bin           = @["now_nim_serverless"]
 skipExt       = @["nim"]
 
 

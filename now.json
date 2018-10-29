@@ -1,0 +1,9 @@
+{
+  "name": "nim-serverless",
+  "alias": "nim-serverless",
+  "public": true,
+  "type": "docker",
+  "features": {
+    "cloud": "v2"
+  }
+}
